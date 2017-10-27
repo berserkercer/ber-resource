@@ -1,0 +1,11 @@
+*.swp
+*.iml
+*.class
+*.bak
+.classpath
+.project
+
+.idea/
+target/
+.settings/
+.metadata/
